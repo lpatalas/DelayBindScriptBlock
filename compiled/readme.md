@@ -1,0 +1,1 @@
+To execute this example open solution and run debugger. It will open new pwsh.exe console and execute `Debug.ps1` script.
